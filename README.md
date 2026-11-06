@@ -32,6 +32,7 @@ Yayın adresi: `https://oogretmen1-tech.github.io/dosyalar/<klasör>/<dosya-adı
 | `dilimizin-zenginlikleri/` | Dilimizin Zenginlikleri setleri |
 | `pano/` | Pano çalışmaları, belirli gün ve haftalar setleri |
 | `ogretmen-dosyalari/` | Öğretmen evrakları, planlar, kapaklar |
+| `tatil-odevleri/` | Ara tatil ve yaz tatili ödevleri |
 | `diger/` | Hiçbirine uymayanlar |
 
 Dosya adları küçük harf, Türkçe karaktersiz, boşluksuz: `n-sesi-fasikulu.pdf`, `1-sinif-degerlendirme-9-13-kasim-2026.docx`.
