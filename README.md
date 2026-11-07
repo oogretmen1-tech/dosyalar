@@ -55,6 +55,14 @@ git diff --stat --diff-filter=D origin/main HEAD
 
 Çıktı boş değilse (yani silinen dosya varsa) **push etme**. Hasan açıkça bir dosyanın silinmesini istemediyse hiçbir dosya silinmez. Düzeltmek için: `git reset --soft origin/main && git read-tree origin/main`, sonra yalnızca yeni/değişen dosyaları `git add` ile ekle ve tekrar kontrol et. Push'tan sonra `git diff --stat origin/main~1 origin/main` ile yalnızca beklenen dosyaların değiştiğini doğrula.
 
+### Yükledikten sonra (Hasan'ın kuralı, 7 Kasım 2026)
+
+Yükleme işi tamamen Claude'undur; Hasan'a yükleme bırakılmaz. Sıra şöyle:
+
+1. Dosyaları kendin yükle (yukarıdaki kurallar ve silme koruması).
+2. Sonra Hasan'a gönder: sayfanın canlı adresi (https://oogretmen1-tech.github.io/...), birkaç sayfanın PNG ön izlemesi ve neyin nereye yüklendiğini kısa bir mesajla.
+3. Hasan "şunu değiştir" ya da "şunu sil" derse aynı oturumda düzelt ve yeniden yükle; yine canlı adres ve ön izlemeyle haber ver. Silme yalnızca Hasan açıkça isteyince yapılır.
+
 ### Push olmazsa
 
 - HTTP 429: 5 saniye bekle, bir kez daha dene. Döngüye sokma.
