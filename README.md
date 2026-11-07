@@ -45,6 +45,16 @@ Dosya adları küçük harf, Türkçe karaktersiz, boşluksuz: `n-sesi-fasikulu.
 4. **Önce bu depoya, sonra ana depoya** push et. Böylece sitedeki bağlantı açıldığında dosya hazır olur.
 5. Push'tan sonra doğrula: `git log origin/main` ile iki depoda da commit'in olduğunu, ana depodaki her indirme bağlantısının gösterdiği dosya adının bu depoda birebir (büyük/küçük harf dahil) bulunduğunu kontrol et.
 
+### Silme koruması (zorunlu, 7 Kasım 2026)
+
+Kısmi klon (`--no-checkout`, `--filter=blob:none`, sparse) kullanılırken commit yanlışlıkla diğer dosyaları "silinmiş" gösterebilir. Bu iki kez oldu. Her commit'ten sonra ve push'tan önce, **iki depoda da**:
+
+```
+git diff --stat --diff-filter=D origin/main HEAD
+```
+
+Çıktı boş değilse (yani silinen dosya varsa) **push etme**. Hasan açıkça bir dosyanın silinmesini istemediyse hiçbir dosya silinmez. Düzeltmek için: `git reset --soft origin/main && git read-tree origin/main`, sonra yalnızca yeni/değişen dosyaları `git add` ile ekle ve tekrar kontrol et. Push'tan sonra `git diff --stat origin/main~1 origin/main` ile yalnızca beklenen dosyaların değiştiğini doğrula.
+
 ### Push olmazsa
 
 - HTTP 429: 5 saniye bekle, bir kez daha dene. Döngüye sokma.
