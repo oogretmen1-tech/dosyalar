@@ -10,4 +10,4 @@ Hasan'ın ürettiği görseller. Fasikül ve Harf Atölyesi setinde kullanılaca
 - kaplumbaga.jpg — yandan kaplumbağa, boş kabuk plakaları
 - kukla-sahnesi.jpg — boş kukla sahnesi
 - elif-onat-ayakta.jpg — Elif ve Onat ayakta, kesip kukla yapmak için
-- KAPAK YOK (Hasan'ın görsel limiti bitti): kapak bu görsellerden kurulacak.
+- kapak.jpg — KAPAK VAR (Hasan 12 Kasım 11.53'te gönderdi). Görev talimatındaki "kapak görseli yok, kapağı başka görsellerden kur" notu artık GEÇERSİZ: kapak olarak bu görseli kullan. Elif ile Onat sonbahar bahçesinde, tilki kukla, uğur böceği, kaplumbağa, renkli halka kule. Üstteki düz açık mavi alan başlık içindir; başlığı oraya koy, görseli kırpma.
