@@ -11,3 +11,6 @@ Hasan'ın ürettiği görseller. Fasikül ve Harf Atölyesi setinde kullanılaca
 - kukla-sahnesi.jpg — boş kukla sahnesi
 - elif-onat-ayakta.jpg — Elif ve Onat ayakta, kesip kukla yapmak için
 - kapak.jpg — KAPAK VAR (Hasan 12 Kasım 11.53'te gönderdi). Görev talimatındaki "kapak görseli yok, kapağı başka görsellerden kur" notu artık GEÇERSİZ: kapak olarak bu görseli kullan. Elif ile Onat sonbahar bahçesinde, tilki kukla, uğur böceği, kaplumbağa, renkli halka kule. Üstteki düz açık mavi alan başlık içindir; başlığı oraya koy, görseli kırpma.
+
+## Hasan'ın ek fikri (12 Kasım 11.54) — rakam sayfasında ses bağlantısı
+"sekiz" kelimesinde k sesi, "dokuz" kelimesinde hem k hem u sesi var. Rakam sayfalarında (6-9) bunu kullan: 8 ve 9'da kısa bir dinleme yönergesi — "Öğretmenimiz rakamın adını söylesin. sekiz derken hangi sesi duyuyoruz? dokuz derken hangi sesleri duyuyoruz?" — ve çocuk duyduğu k / u harfini küçük kutuya yazsın ya da işaretlesin. DİKKAT: "sekiz", "dokuz", "altı", "yedi" kelimelerini çocuğun okuyacağı/yazacağı biçimde sayfaya YAZMA (s, z, d, ı, y öğretilmedi); rakamın adı yalnızca öğretmen için küçük notta ya da parantezde, öğretmene yönelik olarak geçebilir. Ses yalnızca dinlenerek bulunur.
