@@ -19,3 +19,5 @@ Hasan'ın ürettiği görseller. Fasikül ve Harf Atölyesi setinde kullanılaca
 Tek nesne, beyaz zemin: kek.jpg (ortası delik ev keki; eski çilekli pasta görselinin yerine), tekne.jpg (kabinli balıkçı teknesi), kalkan.jpg (tek şövalye kalkanı), ukulele.jpg (dört telli), kol.jpg, konak.jpg, tunik.jpg, etek.jpg, toka.jpg, kano.jpg, kanat.jpg, tutkal.jpg, teneke.jpg, elek.jpg.
 metin-kek.jpg — Elif ve Onat (elif-onat-ayakta) ile kek birleştirildi; 3. okuma metni "Kek" için.
 Hasan'ın gönderdiği inek görselinde pngtree filigranı vardı; kullanılmadı, fasikülde zaten olan inek görseli kullanıldı.
+
+ucak.jpg (sevimli pervaneli uçak), ucurtma.jpg; kapak-ucak-ucurtma.jpg — kapak.jpg üst bandı gökyüzü geçişine çevrildi, uçak ve uçurtma eklendi (fasikülde kullanılan kapak bu).
