@@ -14,3 +14,8 @@ Hasan'ın ürettiği görseller. Fasikül ve Harf Atölyesi setinde kullanılaca
 
 ## Hasan'ın ek fikri (12 Kasım 11.54) — rakam sayfasında ses bağlantısı
 "sekiz" kelimesinde k sesi, "dokuz" kelimesinde hem k hem u sesi var. Rakam sayfalarında (6-9) bunu kullan: 8 ve 9'da kısa bir dinleme yönergesi — "Öğretmenimiz rakamın adını söylesin. sekiz derken hangi sesi duyuyoruz? dokuz derken hangi sesleri duyuyoruz?" — ve çocuk duyduğu k / u harfini küçük kutuya yazsın ya da işaretlesin. DİKKAT: "sekiz", "dokuz", "altı", "yedi" kelimelerini çocuğun okuyacağı/yazacağı biçimde sayfaya YAZMA (s, z, d, ı, y öğretilmedi); rakamın adı yalnızca öğretmen için küçük notta ya da parantezde, öğretmene yönelik olarak geçebilir. Ses yalnızca dinlenerek bulunur.
+
+## Ek görseller (Hasan, 12 Kasım 2026 akşamı)
+Tek nesne, beyaz zemin: kek.jpg (ortası delik ev keki; eski çilekli pasta görselinin yerine), tekne.jpg (kabinli balıkçı teknesi), kalkan.jpg (tek şövalye kalkanı), ukulele.jpg (dört telli), kol.jpg, konak.jpg, tunik.jpg, etek.jpg, toka.jpg, kano.jpg, kanat.jpg, tutkal.jpg, teneke.jpg, elek.jpg.
+metin-kek.jpg — Elif ve Onat (elif-onat-ayakta) ile kek birleştirildi; 3. okuma metni "Kek" için.
+Hasan'ın gönderdiği inek görselinde pngtree filigranı vardı; kullanılmadı, fasikülde zaten olan inek görseli kullanıldı.
