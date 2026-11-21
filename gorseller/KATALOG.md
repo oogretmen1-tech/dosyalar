@@ -3,6 +3,7 @@
 Arşivdeki her görsel burada ne olduğuyla yazılı. Bir görsel lazım olduğunda ÖNCE bu dosyada ara (Türkçe adıyla: "ağaç", "balık", "lale"…); bulamazsan prompt yaz.
 
 - kart-cevirmece/tek-tek/ — 316 tek nesne, dosya adı = Türkçe adı (ör. agac.webp, balik.webp). Liste: kart-cevirmece/OKU-BENI.md
+- dijo/ — Dijo sayfasından 181 nesne + Dijo robot, dosya adı = Türkçe adı (ör. agac.webp, mum.webp, nine.webp). Liste: dijo/OKU-BENI.md
 - k-u/ — K ve U fasikülü görselleri (açıklamalar k-u/OKU-BENI.md içinde)
 - Aşağıdakiler: sayfalardan çıkarılan görseller (sayfalar/…), Elif Artık Okuyor ve Öğretmenler Günü görselleri.
 
