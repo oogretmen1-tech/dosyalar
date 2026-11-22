@@ -438,3 +438,9 @@ Arşivdeki her görsel burada ne olduğuyla yazılı. Bir görsel lazım olduğu
 - ramazan-takvim-zemini.jpg — Ramazan takvimi zemini: 28 boş kutu, fenerler, cami, iki çocuk (yazısız)
 - yerli-mali-pazar-tezgahi.jpg — Kırmızı-beyaz tenteli pazar tezgâhı, boş sepetler ve kasalar, bal, reçel, halı, fındık-kayısı-incir çuvalları (Yerli Malı, yazısız)
 - 19-mayis-elif-samsun.jpg — Elif ve çocuklar beyaz tişört kırmızı şortla bayrak sallıyor, Samsun gün doğumu (19 Mayıs)
+
+## yerli-mali (22 Kasım 2026, Hasan üretti; tezgâhla aynı çizim stili)
+- Türk ürünleri, tek tek (şeffaf PNG, Türkçe adlarıyla): zeytin, incir, karpuz, seftali, uzum, nar, kayisi, findik, badem, antep-fistigi, cay, simit, mercimek, nohut, fasulye, bugday, bulgur, cay-yapragi, bal, beyaz-peynir, zeytinyagi, domates, biber, kiraz
+- Yerli üretim araçları, tek tek: otomobil, hizli-tren, savas-ucagi, iha, gemi, uydu, otobus, traktor
+- sayfa-turk-urunleri-1.jpg, sayfa-turk-urunleri-2.jpg, sayfa-yerli-araclar.jpg — özgün sayfalar
+- belirli-gunler/yerli-uretim-sahnesi.jpg — Boş gökyüzü, demiryolu, yol, deniz; bayraklı fabrika ve kasaba (yazısız)
