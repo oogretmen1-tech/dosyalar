@@ -47,6 +47,8 @@ Dosya adları küçük harf, Türkçe karaktersiz, boşluksuz: `n-sesi-fasikulu.
 
 ### Silme koruması (zorunlu, 7 Kasım 2026)
 
+**Silme bekçisi (22 Kasım 2026):** `.github/workflows/silme-bekcisi.yml` her push'tan sonra silinen dosya var mı diye bakar ve varsa hepsini kendiliğinden geri koyar. Hasan açıkça istemedikçe hiçbir dosya silinmez. Bilerek silmek gerekirse (yalnızca Hasan isterse) commit mesajına `[silme-onayli]` yazılır.
+
 Kısmi klon (`--no-checkout`, `--filter=blob:none`, sparse) kullanılırken commit yanlışlıkla diğer dosyaları "silinmiş" gösterebilir. Bu iki kez oldu. Her commit'ten sonra ve push'tan önce, **iki depoda da**:
 
 ```
