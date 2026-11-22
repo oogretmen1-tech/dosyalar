@@ -433,4 +433,7 @@ Arşivdeki her görsel burada ne olduğuyla yazılı. Bir görsel lazım olduğu
 
 ## belirli-gunler/ (Hasan üretti, 22 Kasım 2026)
 - anitkabir-10-kasim.jpg — Anıtkabir, yarıya inmiş bayrak, basamakta karanfiller (10 Kasım, insansız)
+- kutuphane-hayal-kitabi-yatay.jpg — Yatay açık kitaptan iki yana yayılan gökkuşağı, şatolar, hayvanlar (Kütüphane Haftası, yazısız)
+- canakkale-abide-cocuklar.jpg — Gün batımında Çanakkale Şehitler Abidesi, bayrak, karanfiller, arkadan üç üniformalı çocuk (18 Mart, yazısız)
+- ramazan-takvim-zemini.jpg — Ramazan takvimi zemini: 28 boş kutu, fenerler, cami, iki çocuk (yazısız)
 - 19-mayis-elif-samsun.jpg — Elif ve çocuklar beyaz tişört kırmızı şortla bayrak sallıyor, Samsun gün doğumu (19 Mayıs)
