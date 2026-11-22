@@ -430,3 +430,7 @@ Arşivdeki her görsel burada ne olduğuyla yazılı. Bir görsel lazım olduğu
 - kesilecek-cicekler-3x3.jpg — Karanfil, lale, papatya, kalp, yıldız çıkartmaları
 - ogretmen-yuz-kucuk-resim.jpg — Öğretmen yüz yakın plan
 - renkli-sahne-elif-saksi.jpg — Öğretmene çiçek veren kız
+
+## belirli-gunler/ (Hasan üretti, 22 Kasım 2026)
+- anitkabir-10-kasim.jpg — Anıtkabir, yarıya inmiş bayrak, basamakta karanfiller (10 Kasım, insansız)
+- 19-mayis-elif-samsun.jpg — Elif ve çocuklar beyaz tişört kırmızı şortla bayrak sallıyor, Samsun gün doğumu (19 Mayıs)
