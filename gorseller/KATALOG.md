@@ -444,3 +444,7 @@ Arşivdeki her görsel burada ne olduğuyla yazılı. Bir görsel lazım olduğu
 - Yerli üretim araçları, tek tek: otomobil, hizli-tren, savas-ucagi, iha, gemi, uydu, otobus, traktor
 - sayfa-turk-urunleri-1.jpg, sayfa-turk-urunleri-2.jpg, sayfa-yerli-araclar.jpg — özgün sayfalar
 - belirli-gunler/yerli-uretim-sahnesi.jpg — Boş gökyüzü, demiryolu, yol, deniz; bayraklı fabrika ve kasaba (yazısız)
+
+## dz-aralik (23 Kasım 2026, Hasan üretti · Dilimizin Zenginlikleri Aralık panosu)
+- kis-gecesi-ip-zemin.jpg — karlı gece, iki direk arasında ip (yazısız zemin)
+- tek-tek/ — örgü eldivenler (8 renk, sol/sağ, ortası boş etiketli), karlı renkli mahalle evleri (6 renk, iki boş pencereli), tahta mandallar, çini kar taneleri. Liste: dz-aralik/OKU-BENI.md
