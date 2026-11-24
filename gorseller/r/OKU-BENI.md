@@ -50,3 +50,6 @@ Uçan gerçek Dijo şeffaf PNG: gorseller/dijo-gercek/dijo-ucan-seffaf.png (yan 
 - Kapak düzeni (seri): kapakSayfa tam sayfa görsel; kapakBaslik "R" (.kB #1f5fb0) + "r" (.kK #e23b3b), beyaz kontur; hemen altında lacivert (#1b2f5e) hap: "3 Aralık Dünya Engelliler Günü"; altta kapakAlt "1. Sınıf · 10. Ses · R Sesi Fasikülü". Önizleme: kapak-elif-eren-onizleme.jpg.
 - İç sayfaların çerçeve rengi: LACİVERT (#1b2f5e) — L'deki 9mm solid çerçeve gibi.
 - Fasikülün sonlarına (O fasikülündeki 10 Kasım kes-yapıştır gibi) 3 Aralık kes-yapıştır etkinliği: "El ele" ayakta duran arkadaşlar — Elif, Onat, Arel (kabartma kitaplı) ve tekerlekli sandalyede Eren kesilip katlama tabanlı ayaklıklarla zemine dizilir, elleri birbirine değer; zeminde okunacak cümle "El ele, kol kola." Figür görseli için Hasan'a prompt verildi (7-kes-yapistir-el-ele-cocuklar); gelmezse 3-aralik-el-ele.jpg'den kırpılmaz, yer bırakılır.
+
+## Kes-yapıştır figürleri (23:40, Hasan gönderdi)
+kes-yapistir-cocuklar.jpg (2x2 sayfa) ve tek tek kırpılmış: kes-elif.jpg, kes-onat.jpg, kes-arel.jpg (kabartma kitaplı, gözlüklü), kes-eren.jpg (tekerlekli sandalye). 3 Aralık "El ele" kes-yapıştır sayfasında bunlar kullanılır; her figür kesim çizgisiyle, arkaya katlanan ayaklıkla.
