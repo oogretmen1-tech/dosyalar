@@ -39,3 +39,8 @@ Uçan gerçek Dijo şeffaf PNG: gorseller/dijo-gercek/dijo-ucan-seffaf.png (yan 
 ## SON KAPAK KARARI (23:27): Hasan alevli Dijo'yu ve "SES FASİKÜLÜ" başlıklı mor kapağı BEĞENMEDİ.
 - Kapak, önceki fasiküllerle AYNI seride olmalı (L, O, K-U kapakları gibi): tam sayfa sahne görseli, üstte büyük harfler — büyük R mavi, küçük r kırmızı, beyaz kontur, Poppins Bold; altta beyaz hap etiket "1. Sınıf · 10. Ses · R Sesi Fasikülü". Örnek: kapak-onizleme-seri.jpg.
 - Kapak görseli: kapak-dijo-isikli.jpg (Dijo havada, yalnızca hafif mavi ışık, alev YOK). kapak-ucan-dijo.jpg ve kapak-onizleme-baslikli.jpg KULLANILMAZ.
+
+## KAPAK — EN SON (23:31): Dijo'suz roket kapağı önerildi
+- Kapak görseli: kapak-roket-dijosuz.jpg (Elif roketi gösteriyor; Hasan'ın 24 Kasım'da ürettiği temiz görsel, robot yok). Önizleme: kapak-roket-onizleme.jpg (seri düzeni: mavi R, kırmızı r, altta "1. Sınıf · 10. Ses · R Sesi Fasikülü").
+- Dijo kapakta YOK; yalnızca fasikül içindeki öğelerde (sesi hissetme/R'yi tanıyalım sayfası, şarj çubuğu, antenli heceler, ekranlı görsel dikte, şifre, sertifika) gerçek Dijo (logo.png / dijo-gercek/) olarak kullanılır.
+- Hasan bunu onaylamazsa ve 3 Aralık temalı kapak isterse 3-aralik-el-ele.jpg kullanılabilir. Daha önceki kapak dosyaları (kapak-*-dijo*.jpg, kapak-onizleme-*.jpg) kullanılmaz.
