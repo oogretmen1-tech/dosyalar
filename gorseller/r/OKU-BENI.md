@@ -16,3 +16,9 @@ UYARI: Kapak, roket ve kar görsellerindeki robot gerçek Dijo'ya (sitedeki logo
 | metin-roket-v2.jpg | Roket metni: Onat karton, Elif tel tutuyor, kutudan roket; sağda Dijo |
 | metin-kar-v2.jpg | Kar metni: Elif ve Onat kardan kale yapıyor; sağda Dijo |
 Eski kapak-elif-dijo-roket.jpg, metin-roket.jpg, metin-kar.jpg KULLANILMAZ (robot Dijo'ya benzemiyor). Sayfa başları, şarj çubuğu ve sertifika gibi tek başına Dijo gereken yerlerde ana depodaki logo.png kullanılır.
+
+## EN GÜNCEL KARAR (24 Kasım 2026 gece) — Hasan çizim robotları Dijo'ya benzetmedi, "benim Dijo'mu kendin al" dedi
+| kapak-gercek-dijo.jpg | KAPAK: Elif + sitedeki GERÇEK Dijo (logo.png) + gökyüzünde roket |
+| metin-roket-robotsuz.jpg | Roket metni: yalnızca Onat ve Elif (çizim robot kırpıldı) |
+| metin-kar-robotsuz.jpg | Kar metni: yalnızca Elif ve Onat (çizim robot kırpıldı) |
+Fasikülün içinde Dijo yalnızca ana depodaki logo.png (gerçek Dijo) olarak kullanılır: sayfa başları, şarj çubuğu, R'yi tanıyalım, sertifika. Hiçbir çizim/üretilmiş robot (v1, v2) kullanılmaz.
