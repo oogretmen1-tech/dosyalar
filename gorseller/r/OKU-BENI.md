@@ -33,3 +33,5 @@ Uçan gerçek Dijo şeffaf PNG: gorseller/dijo-gercek/dijo-ucan-seffaf.png (yan 
 - KAPAK: kapak-ucan-dijo.jpg (gerçek Dijo uçuyor; yanlardan ve alttan belirgin mavi alev). Sahne görsellerinden YALNIZCA kapakta Dijo var.
 - Roket metni: metin-roket-robotsuz.jpg · Kar metni: metin-kar-robotsuz.jpg · Nar: metin-nar.jpg · 3 Aralık: 3-aralik-el-ele.jpg (hiçbirinde robot yok). metin-*-ucan-dijo.jpg KULLANILMAZ.
 - Fasikül içinde Dijo yalnızca plandaki öğelerde: köşedeki şarj çubuğu, Dijo'nun antenlerinde heceler, Dijo'nun ekranındaki görsel dikte, Dijo'nun şifresi, sertifika (dijo-gercek/dijo-ucan-seffaf.png ya da logo.png).
+
+## Güncelleme (23:25): alevler sadeleşti — alttan 2 alev, kollardan yana doğru kısa alev. Kapak düzeni kapak-onizleme-baslikli.jpg'deki gibi: üst gökyüzünde büyük "R r", altında "SES FASİKÜLÜ", mor çerçeve. Kapak için başlıksız kapak-ucan-dijo.jpg kullanılır, başlık sayfada yazılır.
