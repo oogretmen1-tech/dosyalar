@@ -44,3 +44,9 @@ Uçan gerçek Dijo şeffaf PNG: gorseller/dijo-gercek/dijo-ucan-seffaf.png (yan 
 - Kapak görseli: kapak-roket-dijosuz.jpg (Elif roketi gösteriyor; Hasan'ın 24 Kasım'da ürettiği temiz görsel, robot yok). Önizleme: kapak-roket-onizleme.jpg (seri düzeni: mavi R, kırmızı r, altta "1. Sınıf · 10. Ses · R Sesi Fasikülü").
 - Dijo kapakta YOK; yalnızca fasikül içindeki öğelerde (sesi hissetme/R'yi tanıyalım sayfası, şarj çubuğu, antenli heceler, ekranlı görsel dikte, şifre, sertifika) gerçek Dijo (logo.png / dijo-gercek/) olarak kullanılır.
 - Hasan bunu onaylamazsa ve 3 Aralık temalı kapak isterse 3-aralik-el-ele.jpg kullanılabilir. Daha önceki kapak dosyaları (kapak-*-dijo*.jpg, kapak-onizleme-*.jpg) kullanılmaz.
+
+## KAPAK — KESİN (23:36, Hasan "şimdi güzel bu" dedi)
+- Kapak görseli: kapak-elif-eren-roket.jpg (Elif + tekerlekli sandalyede Eren roketi gösteriyor, ayın yanında turnalar, sağ altta rakun; Hasan'ın çerçevesi kırpıldı, A4 oranında). Dijo YOK.
+- Kapak düzeni (seri): kapakSayfa tam sayfa görsel; kapakBaslik "R" (.kB #1f5fb0) + "r" (.kK #e23b3b), beyaz kontur; hemen altında lacivert (#1b2f5e) hap: "3 Aralık Dünya Engelliler Günü"; altta kapakAlt "1. Sınıf · 10. Ses · R Sesi Fasikülü". Önizleme: kapak-elif-eren-onizleme.jpg.
+- İç sayfaların çerçeve rengi: LACİVERT (#1b2f5e) — L'deki 9mm solid çerçeve gibi.
+- Fasikülün sonlarına (O fasikülündeki 10 Kasım kes-yapıştır gibi) 3 Aralık kes-yapıştır etkinliği: "El ele" ayakta duran arkadaşlar — Elif, Onat, Arel (kabartma kitaplı) ve tekerlekli sandalyede Eren kesilip katlama tabanlı ayaklıklarla zemine dizilir, elleri birbirine değer; zeminde okunacak cümle "El ele, kol kola." Figür görseli için Hasan'a prompt verildi (7-kes-yapistir-el-ele-cocuklar); gelmezse 3-aralik-el-ele.jpg'den kırpılmaz, yer bırakılır.
