@@ -22,3 +22,9 @@ Eski kapak-elif-dijo-roket.jpg, metin-roket.jpg, metin-kar.jpg KULLANILMAZ (robo
 | metin-roket-robotsuz.jpg | Roket metni: yalnızca Onat ve Elif (çizim robot kırpıldı) |
 | metin-kar-robotsuz.jpg | Kar metni: yalnızca Elif ve Onat (çizim robot kırpıldı) |
 Fasikülün içinde Dijo yalnızca ana depodaki logo.png (gerçek Dijo) olarak kullanılır: sayfa başları, şarj çubuğu, R'yi tanıyalım, sertifika. Hiçbir çizim/üretilmiş robot (v1, v2) kullanılmaz.
+
+## SON HÂL — Hasan onayladı (24 Kasım 2026, 23:20): gerçek Dijo, küçültülmüş, havada uçuyor
+| kapak-ucan-dijo.jpg | KAPAK (kullanılacak) |
+| metin-roket-ucan-dijo.jpg | Roket metni (kullanılacak) — Dijo pencerenin önünde uçuyor |
+| metin-kar-ucan-dijo.jpg | Kar metni (kullanılacak) — Dijo gökyüzünde uçuyor |
+Uçan gerçek Dijo şeffaf PNG: gorseller/dijo-gercek/dijo-ucan-seffaf.png (yan ışıklardan ve alttan camgöbeği ışık, kahverengi kontur). Sayfa başları, şarj çubuğu, R'yi tanıyalım ve sertifikada bu ya da ana depodaki logo.png kullanılır. Hasan'ın isteği: Dijo yere basmasın, hafif havalansın, küçük olsun.
