@@ -28,3 +28,8 @@ Fasikülün içinde Dijo yalnızca ana depodaki logo.png (gerçek Dijo) olarak k
 | metin-roket-ucan-dijo.jpg | Roket metni (kullanılacak) — Dijo pencerenin önünde uçuyor |
 | metin-kar-ucan-dijo.jpg | Kar metni (kullanılacak) — Dijo gökyüzünde uçuyor |
 Uçan gerçek Dijo şeffaf PNG: gorseller/dijo-gercek/dijo-ucan-seffaf.png (yan ışıklardan ve alttan camgöbeği ışık, kahverengi kontur). Sayfa başları, şarj çubuğu, R'yi tanıyalım ve sertifikada bu ya da ana depodaki logo.png kullanılır. Hasan'ın isteği: Dijo yere basmasın, hafif havalansın, küçük olsun.
+
+## KESİN KARAR (24 Kasım 2026, 23:22) — Hasan: "Dijo'yu sadece kapağa koyabilirdin"
+- KAPAK: kapak-ucan-dijo.jpg (gerçek Dijo uçuyor; yanlardan ve alttan belirgin mavi alev). Sahne görsellerinden YALNIZCA kapakta Dijo var.
+- Roket metni: metin-roket-robotsuz.jpg · Kar metni: metin-kar-robotsuz.jpg · Nar: metin-nar.jpg · 3 Aralık: 3-aralik-el-ele.jpg (hiçbirinde robot yok). metin-*-ucan-dijo.jpg KULLANILMAZ.
+- Fasikül içinde Dijo yalnızca plandaki öğelerde: köşedeki şarj çubuğu, Dijo'nun antenlerinde heceler, Dijo'nun ekranındaki görsel dikte, Dijo'nun şifresi, sertifika (dijo-gercek/dijo-ucan-seffaf.png ya da logo.png).
