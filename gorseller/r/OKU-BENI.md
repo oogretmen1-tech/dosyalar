@@ -10,3 +10,9 @@
 | r-kelimeleri-3x3.jpg | 3x3: roket, tarak, kartal / turna, tren, terlik / tekerlek, rakun, korna |
 
 UYARI: Kapak, roket ve kar görsellerindeki robot gerçek Dijo'ya (sitedeki logo.png: gümüş, kutu kafa, koyu vizör, iki camgöbeği göz, kulaklıklı iki anten, gövde içi boş D çerçeve, göğsünde harf YOK, tekerleği YOK) benzemiyor. Hasan düzeltilmiş promptla yeniden üretecek; yenileri gelince bunların yerine onlar kullanılır.
+
+## Yeni sürümler (24 Kasım 2026, gerçek Dijo'ya göre) — BUNLARI KULLAN
+| kapak-elif-dijo-roket-v2.jpg | Kapak: Elif tepede yukarıyı gösteriyor, roket gökyüzünde uçuyor, yanında Dijo (üst üçte bir boş — başlık için) |
+| metin-roket-v2.jpg | Roket metni: Onat karton, Elif tel tutuyor, kutudan roket; sağda Dijo |
+| metin-kar-v2.jpg | Kar metni: Elif ve Onat kardan kale yapıyor; sağda Dijo |
+Eski kapak-elif-dijo-roket.jpg, metin-roket.jpg, metin-kar.jpg KULLANILMAZ (robot Dijo'ya benzemiyor). Sayfa başları, şarj çubuğu ve sertifika gibi tek başına Dijo gereken yerlerde ana depodaki logo.png kullanılır.
