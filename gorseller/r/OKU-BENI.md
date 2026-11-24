@@ -35,3 +35,7 @@ Uçan gerçek Dijo şeffaf PNG: gorseller/dijo-gercek/dijo-ucan-seffaf.png (yan 
 - Fasikül içinde Dijo yalnızca plandaki öğelerde: köşedeki şarj çubuğu, Dijo'nun antenlerinde heceler, Dijo'nun ekranındaki görsel dikte, Dijo'nun şifresi, sertifika (dijo-gercek/dijo-ucan-seffaf.png ya da logo.png).
 
 ## Güncelleme (23:25): alevler sadeleşti — alttan 2 alev, kollardan yana doğru kısa alev. Kapak düzeni kapak-onizleme-baslikli.jpg'deki gibi: üst gökyüzünde büyük "R r", altında "SES FASİKÜLÜ", mor çerçeve. Kapak için başlıksız kapak-ucan-dijo.jpg kullanılır, başlık sayfada yazılır.
+
+## SON KAPAK KARARI (23:27): Hasan alevli Dijo'yu ve "SES FASİKÜLÜ" başlıklı mor kapağı BEĞENMEDİ.
+- Kapak, önceki fasiküllerle AYNI seride olmalı (L, O, K-U kapakları gibi): tam sayfa sahne görseli, üstte büyük harfler — büyük R mavi, küçük r kırmızı, beyaz kontur, Poppins Bold; altta beyaz hap etiket "1. Sınıf · 10. Ses · R Sesi Fasikülü". Örnek: kapak-onizleme-seri.jpg.
+- Kapak görseli: kapak-dijo-isikli.jpg (Dijo havada, yalnızca hafif mavi ışık, alev YOK). kapak-ucan-dijo.jpg ve kapak-onizleme-baslikli.jpg KULLANILMAZ.
