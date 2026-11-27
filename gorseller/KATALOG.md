@@ -448,3 +448,6 @@ Arşivdeki her görsel burada ne olduğuyla yazılı. Bir görsel lazım olduğu
 ## dz-aralik (23 Kasım 2026, Hasan üretti · Dilimizin Zenginlikleri Aralık panosu)
 - kis-gecesi-ip-zemin.jpg — karlı gece, iki direk arasında ip (yazısız zemin)
 - tek-tek/ — örgü eldivenler (8 renk, sol/sağ, ortası boş etiketli), karlı renkli mahalle evleri (6 renk, iki boş pencereli), tahta mandallar, çini kar taneleri. Liste: dz-aralik/OKU-BENI.md
+
+## acil-durumlar (27 Kasım 2026)
+- acil-durumlar/ — Elif acil durum sahneleri: deprem, çök-kapan-tutun, merdiven, yangın zili/duman, 112, acil durum çantası, dede hastalandı, arkadaşı düştü, rozet (13 görsel, OKU-BENI.md)
