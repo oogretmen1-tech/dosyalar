@@ -451,3 +451,5 @@ Arşivdeki her görsel burada ne olduğuyla yazılı. Bir görsel lazım olduğu
 
 ## acil-durumlar (27 Kasım 2026)
 - acil-durumlar/ — Elif acil durum sahneleri: deprem, çök-kapan-tutun, merdiven, yangın zili/duman, 112, acil durum çantası, dede hastalandı, arkadaşı düştü, rozet (13 görsel, OKU-BENI.md)
+
+- dijo-gercek/dijo-bas-kirmizi.png, -mavi.png, -yesil.png, -turuncu.png — Gerçek Dijo başı, renkli metalik (logo.png renklendirildi); Okuma Kitapçığım 7 dikey okuma şeritlerinde kullanıldı (28 Kasım 2026)
