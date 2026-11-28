@@ -53,3 +53,5 @@ Uçan gerçek Dijo şeffaf PNG: gorseller/dijo-gercek/dijo-ucan-seffaf.png (yan 
 
 ## Kes-yapıştır figürleri (23:40, Hasan gönderdi)
 kes-yapistir-cocuklar.jpg (2x2 sayfa) ve tek tek kırpılmış: kes-elif.jpg, kes-onat.jpg, kes-arel.jpg (kabartma kitaplı, gözlüklü), kes-eren.jpg (tekerlekli sandalye). 3 Aralık "El ele" kes-yapıştır sayfasında bunlar kullanılır; her figür kesim çizgisiyle, arkaya katlanan ayaklıkla.
+- kitapcik7-kapak-roket-okuma-kare.jpg — Okuma Kitapçığım 7 kapağı (kare): Elif ve tekerlekli sandalyedeki Eren karton roketin içinde kitap okuyor, alev biçimli halı, robot, rakun (28 Kasım 2026)
+- kitapcik7-kapak-roket-okuma-dikey.jpg — aynı sahnenin dikey ilk sürümü (karton roket, kitap okuyan iki çocuk, rakun)
